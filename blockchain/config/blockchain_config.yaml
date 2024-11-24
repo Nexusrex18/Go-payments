@@ -1,0 +1,12 @@
+blockchain:
+  rpc_url: "https://holesky.infura.io/v3/6e169b79ad1847e083e71343dfafbf06" # Replace with your Ethereum RPC URL
+  ws_url: "wss://holesky.infura.io/ws/v3/6e169b79ad1847e083e71343dfafbf06" # Replace with your Ethereum WebSocket URL
+  contract_abi: "./contracts/Payment.abi"                      # Path to your contract ABI
+  contract_bin: "./contracts/Payment.bin"                      # Path to your contract bytecode
+  contract_addr: ""               # Deployed contract address
+  private_key: "0x84c6835fc30e4a99cbbc0277c1ebec768dc95b1ac731e7ddd2e8ef86fc461825"                              # Your private key for transactions
+  gas_limit: 3000000                                           # Gas limit for transactions
+  gas_price: 20                                                # Gas price in Gwei
+  network_id: 17000                                   # Network ID                
+  
+                                   
