@@ -21,7 +21,6 @@ C:.
 |   |   go.mod
 |   |   go.sum
 |   |   main.go
-|   |   main2.go
 |   |
 |   +---config
 |   |       blockchain_config.yaml
