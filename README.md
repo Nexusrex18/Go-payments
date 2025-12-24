@@ -162,3 +162,9 @@ This module handles user authentication, including JWT token generation and vali
 
 ## Contributing
 Feel free to fork the repository, create a branch, and submit a pull request for any enhancements, bug fixes, or new features.
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](https://github.com/Nexusrex18/Go-payments/blob/main/LICENSE) file for details.
+
